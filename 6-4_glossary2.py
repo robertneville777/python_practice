@@ -9,7 +9,7 @@ glossary = {
     'python term 8':'Python definition 8.',
     'python term 9':'Python definition 9.',
     'python term 10':'Python definition 10.',
-    }
+}
 
 print("")
 
